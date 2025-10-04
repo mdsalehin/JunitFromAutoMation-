@@ -1,0 +1,11 @@
+**/.vs
+**/bin
+**/obj
+**/*.user
+**/Logs/*
+
+.gradle
+.idea
+build
+gradle
+logs
